@@ -1,0 +1,3 @@
+[submodule "frontpress"]
+	path = frontpress
+	url = https://github.com/frontpressorg/frontpress.wiki.git
