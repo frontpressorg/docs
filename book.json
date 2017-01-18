@@ -1,0 +1,11 @@
+{
+    "root": "frontpress",
+    "structure": {
+        "readme": "Home.md",
+        "summary":"_gitbook-summary.md"
+    },
+    "title" : "FrontPress - Documentation",
+    "description": "Developer documentation for FrontPress",
+    "language": "en",
+    "author": "Teles <josetelesmaciel@gmail.com>"
+}
