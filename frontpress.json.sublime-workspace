@@ -1,0 +1,1972 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"templa",
+				"templateUrl"
+			],
+			[
+				"descri",
+				"description"
+			],
+			[
+				"descrip",
+				"descriptionRootNode"
+			],
+			[
+				"include",
+				"include_room_description	(room_svc.py)"
+			],
+			[
+				"getRoom",
+				"getRoomDescriptionByRoomId"
+			],
+			[
+				"descr",
+				"descriptionData"
+			],
+			[
+				"getRo",
+				"getRoomDescriptionByRoomId	(rooms-api.model.js)"
+			],
+			[
+				"amp",
+				"ampUrl	(seo.model.js)"
+			],
+			[
+				"cano",
+				"canonicalUrl"
+			],
+			[
+				"top",
+				"topFunc	(thumbor.directive.js)"
+			],
+			[
+				"pageN",
+				"pageNumber"
+			],
+			[
+				"search",
+				"searchParams"
+			],
+			[
+				"ele",
+				"elementClass"
+			],
+			[
+				"data",
+				"data-renderer-classes"
+			],
+			[
+				"eleme",
+				"elementClass"
+			],
+			[
+				"ren",
+				"renderedTagName"
+			],
+			[
+				"content",
+				"contentArray"
+			],
+			[
+				"mark",
+				"markdown-to-html"
+			],
+			[
+				"ma",
+				"markdown-to-html"
+			],
+			[
+				"mar",
+				"markdown	(paragraph-markdown-directive.controller.js)"
+			],
+			[
+				"parse",
+				"parsedHtmlFromMarkdown"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"RoomDes",
+				"RoomDescriptionModelNew"
+			],
+			[
+				"room",
+				"roomDescriptionPromise"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"head",
+				"headingHtml"
+			],
+			[
+				"bind",
+				"bind-markdown-to-html"
+			],
+			[
+				"html",
+				"htmlDescription"
+			],
+			[
+				"desc",
+				"descriptionData"
+			],
+			[
+				"Room",
+				"RoomsApi"
+			],
+			[
+				"marked",
+				"marked-to-html	(search-results.template.html)"
+			],
+			[
+				"rende",
+				"rendererClass"
+			],
+			[
+				"renderer",
+				"rendererClass	(marked-to-html.directive.js)"
+			],
+			[
+				"roo",
+				"roomDescriptionRenderes"
+			],
+			[
+				"markdown",
+				"markdownToHtml"
+			],
+			[
+				"markedLi",
+				"markedLines"
+			],
+			[
+				"marke",
+				"markedLines"
+			],
+			[
+				"Mar",
+				"MarkedToHtml"
+			],
+			[
+				"diret",
+				"directive"
+			],
+			[
+				"para",
+				"paragraphWithCssClasses"
+			],
+			[
+				"RoomD",
+				"RoomDescriptionModelNew"
+			],
+			[
+				"Roo",
+				"RoomDescriptionModel"
+			],
+			[
+				"json",
+				"json_file"
+			],
+			[
+				"out",
+				"outputs"
+			],
+			[
+				"justi",
+				"justify-content"
+			],
+			[
+				"line",
+				"line-height	(_typography.sass)"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"feate",
+				"featuredImageUrl"
+			],
+			[
+				"setMe",
+				"setMetaImage	(seo.model.js)"
+			],
+			[
+				"thumbo",
+				"thumborService	(thumbor.model.js)"
+			],
+			[
+				"meta",
+				"metaImage"
+			],
+			[
+				"loadMo",
+				"loadMorePhotosPromise"
+			],
+			[
+				"metaI",
+				"metadataInformation"
+			],
+			[
+				"thum",
+				"thumborService"
+			],
+			[
+				"canoni",
+				"canonicalUrl"
+			],
+			[
+				"searc",
+				"searchType"
+			],
+			[
+				"andr",
+				"androidPath"
+			],
+			[
+				"android",
+				"androidPath	(seo.model.js)"
+			],
+			[
+				"rou",
+				"routeParams"
+			],
+			[
+				"ando",
+				"androidAlternate	(seo.model.js)"
+			],
+			[
+				"and",
+				"androidAlternate"
+			],
+			[
+				"photob",
+				"photoCountBasis"
+			],
+			[
+				"gaS",
+				"gaShowPushBanner	(analytics.model.js)"
+			],
+			[
+				"title-",
+				"title--is-2"
+			],
+			[
+				"confi",
+				"configuration	(navigation-menu.model.js)"
+			],
+			[
+				"gaC",
+				"gaClickToClosePushBanner	(analytics.model.js)"
+			],
+			[
+				"ga",
+				"gaClickToDownloadApp"
+			],
+			[
+				"event",
+				"eventCategory"
+			],
+			[
+				"ass",
+				"associate_photo_to_ideabook"
+			],
+			[
+				"get",
+				"getByRoomId	(photos-api.model.js)"
+			],
+			[
+				"indexO",
+				"indexOfPhotoRoom"
+			],
+			[
+				"parent",
+				"parentRoomId"
+			],
+			[
+				"paren",
+				"parentRoomId"
+			],
+			[
+				"getR",
+				"getRoomById"
+			],
+			[
+				"Rooms",
+				"RoomsRepository"
+			],
+			[
+				"pho",
+				"photoRoomId"
+			],
+			[
+				"Ro",
+				"RoomsRepository"
+			],
+			[
+				"controller",
+				"controllerAs	(slim-footer.directive.js)"
+			],
+			[
+				"is",
+				"isDefaultFooter"
+			],
+			[
+				"set",
+				"setFooterType"
+			],
+			[
+				"seo",
+				"seoConfigs"
+			],
+			[
+				"pup",
+				"populateMetaData	(seo.model.js)"
+			],
+			[
+				"navigation-",
+				"navigation-menu__list"
+			],
+			[
+				"Sto",
+				"StorageManager.setObject('menuState"
+			],
+			[
+				"push",
+				"pushBanner	(page-headline.controller.js)"
+			],
+			[
+				"tim",
+				"timeToStartOpening"
+			],
+			[
+				"hide",
+				"hidePushBanner"
+			],
+			[
+				"navi",
+				"navigationMenuRooms"
+			],
+			[
+				"shou",
+				"shouldReload"
+			],
+			[
+				"displa",
+				"display-flex"
+			],
+			[
+				"last",
+				"lastSearchPageUrl"
+			],
+			[
+				"url",
+				"urlToRefresh"
+			],
+			[
+				"G",
+				"GadsModel"
+			],
+			[
+				"las",
+				"lastVisitedSearchValue"
+			],
+			[
+				"photoGr",
+				"photoGroups"
+			],
+			[
+				"pul",
+				"publiType"
+			],
+			[
+				"pu",
+				"publiPhotoBoxesList"
+			],
+			[
+				"publi",
+				"publiPhotoBox"
+			],
+			[
+				"Publi",
+				"PubliPhotoBoxModel"
+			],
+			[
+				"setP",
+				"setPubliType	(search-results.controller.js)"
+			],
+			[
+				"photoGroup",
+				"photoGroupIndex"
+			],
+			[
+				"photoGrou",
+				"photoGroupIndex"
+			],
+			[
+				"new",
+				"newSearchValue"
+			],
+			[
+				"adse",
+				"adsenseAd1"
+			],
+			[
+				"grid",
+				"gridSizeFromStorage"
+			],
+			[
+				"Searc",
+				"SearchViewModeValues"
+			],
+			[
+				"view",
+				"viewModes"
+			],
+			[
+				"gird",
+				"gridSize"
+			],
+			[
+				"viewMo",
+				"viewModes"
+			],
+			[
+				"photos",
+				"photosPerPage"
+			],
+			[
+				"photo",
+				"photosPerPageAndAdPosition"
+			],
+			[
+				"Sear",
+				"SearchViewModeModel"
+			],
+			[
+				"phtospe",
+				"photosPerPageAndAdPosition"
+			],
+			[
+				"photosp",
+				"photosPerPageAndAdPosition"
+			],
+			[
+				"first",
+				"firstPagePath"
+			],
+			[
+				"defa",
+				"defaultGridSize"
+			],
+			[
+				"_set",
+				"_setPhotosPerPageAndAdPositionByGridSize"
+			],
+			[
+				"valid",
+				"validViewModes"
+			],
+			[
+				"se",
+				"searchGridButtons"
+			],
+			[
+				"setPhoto",
+				"setPhotosPerPageByGridSize"
+			],
+			[
+				"photosPe",
+				"photosPerPageByGridSize"
+			],
+			[
+				"photosP",
+				"photosPerPageByGridSizeMap"
+			],
+			[
+				"pageS",
+				"pageSize"
+			],
+			[
+				"sitem",
+				"sitemapsList"
+			],
+			[
+				"site",
+				"sitemapsList"
+			],
+			[
+				"sitemapR",
+				"sitemapRoomRoute"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"cont",
+				"containerWidth"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "evernote ope",
+		"selected_items":
+		[
+			[
+				"evernote ope",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"evernote op",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"update",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote open",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"evernote up",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote upda",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"update ev",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"upte",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote user",
+				"Evernote Settings: User"
+			],
+			[
+				"upda",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote upd",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote new",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"updare",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"updat",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"send",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"evernote send",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"evernote",
+				"Evernote: Create New Notebook"
+			],
+			[
+				"Evernote new",
+				"Evernote: New empty note"
+			],
+			[
+				"Everno new",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set mar",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"set as text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set as bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"package li",
+				"Package Control: List Packages"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - Default"
+			],
+			[
+				"set scs",
+				"Set Syntax: CSS"
+			],
+			[
+				"set scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"set as htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set ajva",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"set js",
+				"Set Syntax: JSON"
+			],
+			[
+				"set xml",
+				"Set Syntax: XML"
+			],
+			[
+				"set sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"set txt",
+				"Set Syntax: Textile"
+			],
+			[
+				"set jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"set aj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set ajvas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"seth",
+				"Set Syntax: HTML"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"set cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"setting ",
+				"Preferences: Settings - Default"
+			],
+			[
+				"settin",
+				"Preferences: Settings - User"
+			],
+			[
+				"git hi",
+				"Git: Commit history"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"quit",
+			"exit",
+			"view.options().set('wordWrap', False)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/teles/dev/vivadecora-v2/js/src/components/page-footer/templates/default-footer.template.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/utils.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/featured-box/templates/featured-box.template.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/thumbor/templates/thumbor-use-lazy-img.template.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/thumbor/templates/thumbor.template.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/fullscreen/templates/fullscreen.template.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/thumbor/directives/thumbor.directive.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/thumbor/templates/thumbor-without-deferred-images.template.html",
+		"/Users/teles/dev/vivadecora-v2/vd/settings.py",
+		"/Users/teles/dev/vivadecora-v2/docker-compose.yml",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/thumbor/templates/thumbor-prerender.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/jumbotron/models/jumbotron.model.js",
+		"/Users/teles/dev/vivadecora-v2/sass/modules/_welcome-box.sass",
+		"/Users/teles/dev/vivadecora-v2/.gitignore",
+		"/Users/teles/dev/vivadecora-v2/data/1-fix_permissions.sql",
+		"/Users/teles/dev/vivadecora-v2/ci/dump_database.sh",
+		"/Users/teles/dev/vivadecora-v2/photos/services/photos_svc.py",
+		"/Users/teles/Downloads/index 2.html",
+		"/Users/teles/Downloads/index.html",
+		"/Users/teles/dev/vivadecora-v2/photos/templates/amp-room.src.html",
+		"/Users/teles/dev/vivadecora-v2/sass/modules/navigation-menu/_navigation-menu.sass",
+		"/Users/teles/dev/vivadecora-v2/sass/modules/_dropdown-menu.sass",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/search/controllers/search-results.controller.js",
+		"/Users/teles/dev/vivadecora-v2/grunt-tasks/.inject.json",
+		"/Users/teles/dev/vivadecora-v2/js/src/app.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/thumbor/models/thumbor.model.js",
+		"/Users/teles/dev/vivadecora-v2/grunt-tasks/s3.js",
+		"/Users/teles/dev/vivadecora-v2/grunt-tasks/cloudfront.js",
+		"/Users/teles/dev/vivadecora-v2/grunt-tasks/imagemin.js",
+		"/Users/teles/dev/vivadecora-v2/Gruntfile.js",
+		"/Users/teles/dev/vivadecora-v2/sass/modules/_typography.sass",
+		"/Users/teles/dev/vivadecora-v2/js/src/config.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/filters/thousands-separator.filter.js",
+		"/Users/teles/dev/vivadecora-v2/grunt-tasks/aliases.js",
+		"/Users/teles/dev/vivadecora-v2/sass/modules/_search-results-description.sass",
+		"/Users/teles/dev/vivadecora-v2/js/src/view/room-description/room-description-new.html",
+		"/Users/teles/dev/vivadecora-v2/dev.sh",
+		"/Users/teles/dev/vivadecora-v2/package.json",
+		"/Users/teles/Library/Application Support/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+		"/Users/teles/dev/vivadecora-v2/js/src/view/main/main.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/callout/templates/callout.template.html",
+		"/Users/teles/dev/vivadecora-v2/deploy.sh",
+		"/Users/teles/dev/vivadecora-v2/templates/index.src.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/seo/models/seo.model.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/search/models/search-results.model.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/user/user-profile.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/search/templates/search-results.template.html",
+		"/Users/teles/Desktop/afhjklh fhkjbefbhjkcbdhjkfbhjkbhjkbhjabdfhkcfgk.txt",
+		"/Users/teles/dev/vivadecora-v2/js/src/view/projects/photo-detail.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/modals/lead.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/search/controllers/search-page.controller.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/api/rooms/rooms-api.model.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/view/room-description/models/room-description-new.model.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/api/comments/comments-api.model.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/photos/controllers/photo-detail.controller.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/photo-box/templates/photo-box.template.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/photo-box/models/photo-box-collection.model.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/photo-box/models/photo-box.model.js",
+		"/Users/teles/dev/vivadecora-v2/photos/templates/amp-room.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/room/models/rooms-repository.model.js",
+		"/Users/teles/dev/vivadecora-v2/photos/services/room_svc.py",
+		"/Users/teles/dev/vivadecora-v2/photos/tests/test_web_views.py",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/photo-box/templates/photo-box-collection.template.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/save-content/save-single-photo.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/navigation-menu/templates/navigation-menu.template.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/jumbotron/templates/jumbotron.template.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/view/room-description/mock/cozinha.html.md.json",
+		"/Users/teles/dev/vivadecora-v2/js/src/run.js",
+		"/Users/teles/dev/vivadecora-v2/.editorconfig",
+		"/Users/teles/dev/vivadecora-v2/templates/index.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/photos/photos.routes.js",
+		"/Users/teles/dev/vivadecora-v2/sass/base/_font-face-definitions.sass",
+		"/Users/teles/dev/vivadecora-v2/static/fonts/open-sans/open-sans-light/opensans-light-webfont.svg",
+		"/Users/teles/dev/vivadecora-v2/static/fonts/vivaicons/viva-icons.woff",
+		"/Users/teles/dev/vivadecora-v2/sass/helpers/_viva-icons.scss",
+		"/Users/teles/dev/vivadecora-v2/js/src/view/ideabook/ideabook.js",
+		"/Users/teles/dev/vivadecora-v2/sass/layout/_footer.sass",
+		"/Users/teles/dev/vivadecora-v2/sass/modules/_accelerated-header.sass",
+		"/Users/teles/dev/vivadecora-v2/grunt-tasks/string-replace.js",
+		"/Users/teles/dev/vivadecora-v2/sass/amp.sass",
+		"/Users/teles/dev/vivadecora-v2/sass/modules/_accelerated-page-headline.sass",
+		"/Users/teles/dev/vivadecora-v2/sass/modules/_accelerated-photo-box.sass",
+		"/Users/teles/dev/vivadecora-v2/sass/modules/_horizontal-rule.sass",
+		"/Users/teles/dev/vivadecora-v2/sass/pages/_page-amp.sass",
+		"/Users/teles/dev/vivadecora-v2/sass/helpers/_spacing.sass",
+		"/Users/teles/dev/vivadecora-v2/sass/helpers/_breakpoints.sass",
+		"/Users/teles/dev/vivadecora-v2/sass/modules/_grid.sass",
+		"/Users/teles/dev/vivadecora-v2/grunt-tasks/jshint.js",
+		"/Users/teles/dev/vivadecora-v2/sass/modules/_simplified-photo-box.sass",
+		"/Users/teles/dev/vivadecora-v2/static/css/amp.min.css",
+		"/Users/teles/dev/vivadecora-v2/grunt-tasks/watch.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/markdown-to-html/directives/markdown-to-html.directive.js",
+		"/Users/teles/dev/vivadecora-v2/grunt-tasks/inline.js",
+		"/Users/teles/dev/vivadecora-v2/grunt-tasks/criticalcss.js",
+		"/Users/teles/dev/vivadecora-v2/static/blog/css/all_blog.critical.css",
+		"/Users/teles/dev/vivadecora-v2/grunt-tasks/copy.js",
+		"/Users/teles/dev/vivadecora-v2/catalog/static/css-catalog-samples/amp/amp.catalog.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/pagination/models/pagination.model.js",
+		"/Users/teles/dev/vivadecora-v2/requirements.txt",
+		"/Users/teles/dev/vivadecora-v2/js/src/view/main/main.js",
+		"/Users/teles/dev/vivadecora-v2/sass/helpers/_utilities.sass",
+		"/Users/teles/dev/vivadecora-v2/js/src/view/room-description/includes/cozinha.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/view/room-description/models/room-description.model.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/save-content/save-content-ideabook.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/global/global.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/facebook-auth/models/facebook-auth.model.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/bind-markdown-to-html/controllers/paragraph-markdown-directive.controller.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/bind-markdown-to-html/directives/paragraph-markdown.directive.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/bind-markdown-to-html/directives/bind-markdown-to-html.directive.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/bind-markdown-to-html/controllers/bind-markdown-to-html-directive.controller.js",
+		"/Users/teles/dev/vivadecora-v2/bower_components/angular-marked/lib/angular-marked.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/bind-markdown-to-html/controllers/markdown-paragraph-directive.controller.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/bind-markdown-to-html/templates/markdown-paragraph.template.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/bind-markdown-to-html/templates/bind-markdown-to-html.template.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/view/room-description/directives/room-description-new.directive.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/view/room-description/controllers/room-description-new-directive.controller.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/admin/directives/angucomplete.directive.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/styler/models/save-styler-project.model.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/view/room-description/mock/decoracao.html.md.json",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/marked-to-html/templates/marked-to-html.template.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/marked-to-html/models/marked-to-html.model.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/marked-to-html/controllers/marked-to-html-directive.controller.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/marked-to-html/catalog/marked-to-html.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/marked-to-html/directives/marked-to-html.directive.js",
+		"/Users/teles/dev/vivadecora-v2/catalog/templates/catalog.html",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/search/search.routes.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/marked-to-html/catalog/marked-to-html.catalog.js",
+		"/Users/teles/dev/vivadecora-v2/js/src/components/photo-box/catalog/photo-box.sample.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>, *scss, *sass, *js, *html",
+			"/Users/teles/dev/vivadecora-v2/grunt-tasks",
+			"<project>, *scss, *sass, *js, *html",
+			"<project>, *scss, *sass, *js, *html, *php, *py",
+			"<project>, *scss, *sass, *js, *html, *php",
+			"/Users/teles/dev/vivadecora-v2/grunt-tasks",
+			"<project>, *scss, *sass, *js, *html, *php",
+			"/Users/teles/dev/vivadecora-v2/catalog/static/css-catalog-samples",
+			"<project>, *scss, *sass, *js, *html, *php",
+			"<project>, *scss, *sass, *js, *html",
+			"<project>, *py",
+			"<project>, *scss, *sass, *js, *html, *py",
+			"<project>, *scss, *sass, *js, *html",
+			"<project>, *scss, *sass, *js",
+			"<project>, *scss, *sass",
+			"/Users/teles/dev/vivadecora-revista/wp-content/themes/paisley, *php, *html, *js",
+			"/Users/teles/dev/vivadecora-revista/wp-content/themes/paisley",
+			"<project>, *scss, *sass",
+			"<project>, *scss, *sass, *js, *html",
+			"/Users/teles/dev/vivadecora-v2/js/src/components",
+			"/Users/teles/dev/vivadecora-v2/js/src",
+			"/Users/teles/dev/vivadecora-v2, *.py",
+			"<project>, *scss, *sass, *js, *html",
+			"/Users/teles/dev/vivadecora-v2/js/src/view/room-description/includes",
+			"<project>, *scss, *sass, *js, *html",
+			"<project>, *html",
+			"<project>, *scss, *sass, *js, *html",
+			"/Users/teles/dev/vivadecora-v2/js/src/components/search",
+			"<project>, *scss, *sass, *js, *html",
+			"<project>, *html",
+			"<project>, *scss, *sass, *js, *html",
+			"/Users/teles/dev/vivadecora-v2/js/src/view/sitemaps-list",
+			"<project>, *scss, *sass, *js, *html",
+			"<project>",
+			"<project>, *scss, *sass, *js, *html",
+			"<project>, *scss, *sass",
+			"<project>, *scss, *sass, *html, *js",
+			"<project>, *scss, *sass",
+			"<project>, *scss, *sass, *html, *js",
+			"<project>, *scss, *sass, *html",
+			"/Users/teles/dev/vivadecora-v2/js/src/components/search",
+			"<project>, *scss, *sass",
+			"<project>, *scss, *sass, *html, *js",
+			"<project>, *scss, *sass, *html",
+			"<project>, *scss, *sass",
+			"<project>, *scss, *js, *sass, *html",
+			"*scss, *js, *sass, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *js, *sass, *html",
+			"/Users/teles/dev/vivadecora-v2/catalog/static/js",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *js, *sass, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *js, *sass",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *js, *sass, *html",
+			"/Users/teles/dev/vivadecora-v2/js/test/unit",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *js, *sass, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *js, *sass",
+			"/Users/teles/dev/vivadecora-v2/js/src",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *js, *sass",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html, *js, *sass",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html, *js, *sass",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *js",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html, *js, *sass",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html",
+			"/Users/teles/dev/vivadecora-v2/js/src/view/room-description/includes",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html",
+			"/Users/teles/dev/vivadecora-v2/js/src/view/room-description/includes",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html, *js, *sass",
+			"/Users/teles/dev/vivadecora-v2/sass",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html, *js, *sass",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html, *js",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *sass",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html, *js",
+			"/Users/teles/dev/vivadecora-v2/catalog",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html, *js",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html, *js, *py",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html, *js",
+			"/Users/teles/dev/vivadecora-v2/js/src",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*vivadecora_templates.js, -*animate.scss, *scss, *html, *js",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *scss, *html, *js",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *scss, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *scss, *js, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *js",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *html, ",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *html,  *scss, *js",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *html,  *scss",
+			"/Users/teles/dev/vivadecora-v2/js/src",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *html,  *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *html, *js, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *html, *js",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *scss, *html, *js",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *scss, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *scss, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, -*animate.scss, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *html, *js, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *html, *js",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *py",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *scss, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *html, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *html, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *html, *sass",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *html, *js",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *html, *scss, *py",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *html, *scss",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *py",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/styleguide/*, -*/_site*, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/_site*, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/_site*, *html, *js",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/_site*, *html, *js, *scss, *sass",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/_site*, *html",
+			"<project>,-*/bower_components/*, -*min.js,  -*/node_modules/*, -*/coverage/*, -*/annotated*, -*/_site*, *scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"useLazyLoad",
+			"<thumbor",
+			"mysql",
+			"welcome-box",
+			"promise",
+			"isWaitingTimeout",
+			"nextCarouselPhoto",
+			"prerenderReady",
+			"placement ",
+			"ProjectsApi",
+			"vivareal.svg",
+			"dropdown",
+			"png",
+			"update_imgs",
+			"scroll",
+			"Fotos",
+			"varanda",
+			"amp",
+			"vc.vm.toggleFullTextExhibition()",
+			"gitjira",
+			"text-tra",
+			"font-size",
+			"text-tra",
+			"sublist",
+			"callout",
+			"is_unmerged_to_branch",
+			"merge",
+			"removeAndroidAlternate",
+			"hasAndroidAlternate",
+			"metaImage",
+			"search-results-description__headline",
+			"http://schema.org/Person",
+			"item",
+			"http://schema.org/Person",
+			"Person",
+			"espacos-comerciais",
+			"getRoomDescriptionByRoomSlug",
+			"descri",
+			"espacos-comerciais",
+			"setDescription",
+			"descriptionData",
+			"getRoomDescriptionByRoomName",
+			"include_",
+			"options",
+			"jumbotronDimensions",
+			"photoSize",
+			"getRoomDescriptionByRoomName",
+			"getNewRoomsAndSubrooms",
+			"roomsApiBulkEndpoint",
+			"first_six_photos",
+			"<thumbor-img",
+			"reset",
+			"seo",
+			"SEO",
+			"canonicalBaseUrl",
+			"canonical",
+			"<amp-im",
+			"alt",
+			"currentPhoto",
+			"PhotoDetailController",
+			"photo-detail.html",
+			"<thumbor",
+			"photos_count",
+			"fonts",
+			"setFigureClickCallback",
+			"callback",
+			"text",
+			"<img",
+			"simplified",
+			"visible-area",
+			"simplified-photo-box",
+			"data-load-css",
+			"prerender",
+			"critical",
+			"index.",
+			"loadMorePhotos",
+			"seo",
+			"loadMorePhotos",
+			"loadMorePhotosAndPaginate",
+			"revPageUrl",
+			"prevPageUrl",
+			"setAndroidAlternate",
+			"hasAndroidAlternate",
+			"reset",
+			"NavigationMenu",
+			"elementClass",
+			"build",
+			"console.log",
+			"media",
+			"search-results-first-paragraph-open",
+			"SearchResultsModel",
+			"$q",
+			"description",
+			"RoomDescriptionModelNew",
+			"setDes",
+			"RoomDescriptionModel",
+			"RoomDescriptionModelNew",
+			"$q",
+			"BindMarkdownToHtmlDirectiveController",
+			"BindMarkdownToHtmlDirective",
+			"BindMarkdownToHtmlDirectiveController",
+			"parsedHtmlFromMarkdown",
+			"setDescription",
+			"<div ng-bind-html=",
+			"| trustAsHtml",
+			"<room-description",
+			"vc.vm.mdToHtml",
+			"renderer",
+			"jumbotron__highlight__text p-float-right p-margin-right-2",
+			"$sce",
+			".toString()",
+			"RoomDescriptionModelNew",
+			"setDescription",
+			"description",
+			"setHtmlDescription",
+			"htmlDescription",
+			"];\n",
+			"htmlDescription",
+			"HtmlDescription",
+			"htmlDescription",
+			"console.log",
+			"sce",
+			"$sce",
+			"trustAsHtml",
+			"setHtmlDescription",
+			"trustAs",
+			"marked",
+			"description"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"setViewModeOptions",
+			"viewModes",
+			"col-$1-1",
+			"col-$1-6",
+			"col-$1-8",
+			"col-$1-10",
+			"col-$1-12",
+			"col-$1-14",
+			"col-$1-16",
+			"col-$1-18",
+			"col-$1-20",
+			"col-$1-22",
+			"col-$1-24",
+			"col-{1}-24",
+			"col-(tablet|phone|desktop|monitor)-24",
+			"&\\n",
+			"\\n",
+			"",
+			"navigation-menu",
+			"NavigationMenu",
+			"navigation-menu",
+			"update_path",
+			"",
+			"+display-flex()",
+			"viva-icon-cross",
+			"viva-icon-arrow-right",
+			"viva-icon-ok",
+			"viva-icon-instagram-logo",
+			"viva-icon-facebook-box",
+			"",
+			"|",
+			"<p class=\"text\">",
+			"title--is-2",
+			"<h3 class=\"title--is-2\">",
+			"<a href ng-click='vc.vm.toggleFullTextExhibition()' ng-bind='vc.vm.toggleFullTextExhibitionText' ng-if='vc.vm.isShowingFullText' class=\"link--secundary\"></a>",
+			"<a href ng-click='vc.vm.toggleFullTextExhibition()' ng-bind='vc.vm.toggleFullTextExhibitionText' ng-if='!vc.vm.isShowingFullText' class=\"u-hide-tablet link--secundary\"></a>",
+			"<a href ng-click='vc.vm.toggleFullTextExhibition()' ng-bind='vc.vm.toggleFullTextExhibitionText' ng-if='!vc.vm.isShowingFullText' class=\"u-show-tablet link--secundary\"></a>",
+			"<a href ng-click='vc.vm.toggleFullTextExhibition()' ng-bind='vc.vm.toggleFullTextExhibitionText' ng-if='!vc.vm.isShowingFullText' class=\"u-show-tablet title--is-2-link\"></a>",
+			"a href ng-click='vc.vm.toggleFullTextExhibition()' ng-bind='vc.vm.toggleFullTextExhibitionText' ng-if='!vc.vm.isShowingFullText' class=\"u-show-tablet title--is-2-link\"></a>",
+			"ng-click=\"vc.vm.toggleFullTextExhibition()\" class=\"link--secundary\"",
+			"ng-click=vc.vm.toggleFullTextExhibition()\" class=\"link--secundary\"",
+			"vc.vm.toggleFullTextExhibition()\" class=\"link--secundary\"",
+			"vc.vm.toggleFullTextExhibition() class=\"link--secundary\"",
+			"vc.vm.toggleFullTextExhibition()\" class=\"link--secundary\"",
+			"vc.vm.toggleFullTextExhibition() class=\"link--secundary\"",
+			"<p class=\"text\"",
+			"title--is-2",
+			"title--is-1",
+			"+",
+			"    ",
+			"ng-docs",
+			"$1",
+			"|",
+			"",
+			"|",
+			"",
+			"|",
+			"",
+			"|",
+			"",
+			"|",
+			"",
+			"|",
+			"",
+			"$1\\n$2$3",
+			"$1\\n$2",
+			"$1\\n$3",
+			"$1\\n$2",
+			"",
+			"|",
+			"",
+			",",
+			"\\1 {",
+			"    ",
+			"<div>",
+			"",
+			"<a href ng-click='vc.vm.toggleFullTextExhibition()' ng-bind='vc.vm.toggleFullTextExhibitionText' ng-if='!vc.vm.isShowingFullText' class=\"u-show-tablet search-results-description-subtitle-link\"></a>",
+			"<a href ng-click='vc.vm.toggleFullTextExhibition()' ng-bind='vc.vm.toggleFullTextExhibitionText' ng-if='!vc.vm.isShowingFullText' class=\"u-hide-tablet\"></a>",
+			"    ",
+			"natalia-nav",
+			"social",
+			"social-header",
+			"    ",
+			"vc.vm.getUser()",
+			"    ",
+			"RoomSlug",
+			"getPhotosByRoomSlug",
+			"    ",
+			"        ",
+			"search-results-description-subtitle",
+			"search-results-description-title",
+			"search-results-description",
+			"    ",
+			"Casa, Decoração, Arquitetura e Design de Interiores - Viva Decora.",
+			";\\n",
+			" ",
+			"|",
+			"",
+			"|",
+			"",
+			",",
+			".$1",
+			"0.$1",
+			"$1 {",
+			"    ",
+			"",
+			"    ",
+			"photo-box-new",
+			"\\n# ",
+			"",
+			"\\n",
+			"",
+			"\",\\n\"",
+			"\",\\n",
+			"\"\\n\"",
+			"\\n# ",
+			"",
+			"    ",
+			"Search",
+			">\n",
+			"config.getUser().",
+			"activeMenuLink",
+			"menuLinkItem",
+			"user",
+			"\"",
+			"*  ",
+			"triangle",
+			"viva-icon-caret-mini-right"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "frontpress.json.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app",
+				"js/src/app.js"
+			],
+			[
+				"fullscreen.te",
+				"js/src/components/fullscreen/templates/fullscreen.template.html"
+			],
+			[
+				"utils.js",
+				"js/src/utils.js"
+			],
+			[
+				"thumbortem",
+				"js/src/components/thumbor/templates/thumbor.template.html"
+			],
+			[
+				"thumbordire",
+				"js/src/components/thumbor/directives/thumbor.directive.js"
+			],
+			[
+				"docker",
+				"docker-compose.yml"
+			],
+			[
+				"settin",
+				"vd/settings.py"
+			],
+			[
+				"thumbor",
+				"js/src/components/thumbor/templates/thumbor.html"
+			],
+			[
+				"welcome-bo",
+				"sass/modules/_welcome-box.sass"
+			],
+			[
+				"jumbotron",
+				"js/src/components/jumbotron/models/jumbotron.model.js"
+			],
+			[
+				"defaultfo",
+				"js/src/components/page-footer/templates/default-footer.template.html"
+			],
+			[
+				"photos/services/pho",
+				"photos/services/photos_svc.py"
+			],
+			[
+				"defaultfoo",
+				"js/src/components/page-footer/templates/default-footer.template.html"
+			],
+			[
+				"ampro",
+				"photos/templates/amp-room.src.html"
+			],
+			[
+				"dropdown",
+				"sass/modules/_dropdown-menu.sass"
+			],
+			[
+				"footer.html",
+				"js/src/components/page-footer/templates/default-footer.template.html"
+			],
+			[
+				"dropdown-menu",
+				"sass/modules/_dropdown-menu.sass"
+			],
+			[
+				"navigationmenusass",
+				"sass/modules/navigation-menu/_navigation-menu.sass"
+			],
+			[
+				"s3.js",
+				"grunt-tasks/s3.js"
+			],
+			[
+				"thumbormodel",
+				"js/src/components/thumbor/models/thumbor.model.js"
+			],
+			[
+				"app.",
+				"js/src/app.js"
+			],
+			[
+				"inject",
+				"grunt-tasks/.inject.json"
+			],
+			[
+				"searchresulcon",
+				"js/src/components/search/controllers/search-results.controller.js"
+			],
+			[
+				"thous",
+				"js/src/filters/thousands-separator.filter.js"
+			],
+			[
+				"config.js",
+				"js/src/config.js"
+			],
+			[
+				"alias",
+				"grunt-tasks/aliases.js"
+			],
+			[
+				"searchresultdes",
+				"sass/modules/_search-results-description.sass"
+			],
+			[
+				"typograp.s",
+				"sass/modules/_typography.sass"
+			],
+			[
+				"dev.s",
+				"dev.sh"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"navigation-menusass",
+				"sass/modules/navigation-menu/_navigation-menu.sass"
+			],
+			[
+				"app.js",
+				"js/src/app.js"
+			],
+			[
+				"dpelo",
+				"deploy.sh"
+			],
+			[
+				"deploy",
+				"deploy.sh"
+			],
+			[
+				"searchresultsdes",
+				"sass/modules/_search-results-description.sass"
+			],
+			[
+				"roomdesc",
+				"js/src/view/room-description/room-description-new.html"
+			],
+			[
+				"index.sr",
+				"templates/index.src.html"
+			],
+			[
+				"searchresult",
+				"js/src/components/search/templates/search-results.template.html"
+			],
+			[
+				"amproo",
+				"photos/templates/amp-room.src.html"
+			],
+			[
+				"amproom",
+				"photos/templates/amp-room.src.html"
+			],
+			[
+				"roomapi",
+				"js/src/api/rooms/rooms-api.model.js"
+			],
+			[
+				"utils",
+				"js/src/utils.js"
+			],
+			[
+				"thousand",
+				"js/src/filters/thousands-separator.filter.js"
+			],
+			[
+				"amp-room",
+				"photos/templates/amp-room.src.html"
+			],
+			[
+				"aliase",
+				"grunt-tasks/aliases.js"
+			],
+			[
+				"room-descnew",
+				"js/src/view/room-description/models/room-description-new.model.js"
+			],
+			[
+				".gitig",
+				".gitignore"
+			],
+			[
+				".giti",
+				".gitignore"
+			],
+			[
+				"rooms-",
+				"js/src/api/rooms/rooms-api.model.js"
+			],
+			[
+				"ampr",
+				"photos/templates/amp-room.src.html"
+			],
+			[
+				"amp",
+				"photos/templates/amp-room.html"
+			],
+			[
+				"amproom.",
+				"photos/templates/amp-room.src.html"
+			],
+			[
+				"cozinha.",
+				"js/src/view/room-description/mock/cozinha.html.md.json"
+			],
+			[
+				".edito",
+				".editorconfig"
+			],
+			[
+				"run.j",
+				"js/src/run.js"
+			],
+			[
+				"searchrespa",
+				"js/src/components/search/controllers/search-page.controller.js"
+			],
+			[
+				"photo.html",
+				"js/src/view/projects/photo-detail.html"
+			],
+			[
+				"main.",
+				"js/src/view/main/main.html"
+			],
+			[
+				"jumbotrontem",
+				"js/src/components/jumbotron/templates/jumbotron.template.html"
+			],
+			[
+				"jumbot",
+				"js/src/components/jumbotron/models/jumbotron.model.js"
+			],
+			[
+				"font-fa",
+				"sass/base/_font-face-definitions.sass"
+			],
+			[
+				"typogra",
+				"sass/modules/_typography.sass"
+			],
+			[
+				"opensa",
+				"static/fonts/open-sans/open-sans-light/opensans-light-webfont.svg"
+			],
+			[
+				"vivaicons",
+				"sass/helpers/_viva-icons.scss"
+			],
+			[
+				"font-de",
+				"sass/base/_font-face-definitions.sass"
+			],
+			[
+				"vivaicon",
+				"static/fonts/vivaicons/viva-icons.woff"
+			],
+			[
+				"footer.sass",
+				"sass/layout/_footer.sass"
+			],
+			[
+				"accele",
+				"sass/modules/_accelerated-header.sass"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"alia",
+				"grunt-tasks/aliases.js"
+			],
+			[
+				"amp.sass",
+				"sass/amp.sass"
+			],
+			[
+				"horizontal",
+				"sass/modules/_horizontal-rule.sass"
+			],
+			[
+				"amp.sa",
+				"sass/amp.sass"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"simpl",
+				"sass/modules/_simplified-photo-box.sass"
+			],
+			[
+				"typo",
+				"sass/modules/_typography.sass"
+			],
+			[
+				"breakpoint",
+				"sass/helpers/_breakpoints.sass"
+			],
+			[
+				"grid.",
+				"sass/modules/_grid.sass"
+			],
+			[
+				"spacing.",
+				"sass/helpers/_spacing.sass"
+			],
+			[
+				"navigationtempla",
+				"js/src/components/navigation-menu/templates/navigation-menu.template.html"
+			],
+			[
+				"amp.css",
+				"static/css/amp.min.css"
+			],
+			[
+				"simpi",
+				"sass/modules/_simplified-photo-box.sass"
+			],
+			[
+				"watch",
+				"grunt-tasks/watch.js"
+			],
+			[
+				"markdown",
+				"js/src/components/markdown-to-html/directives/markdown-to-html.directive.js"
+			],
+			[
+				"aliases",
+				"grunt-tasks/aliases.js"
+			],
+			[
+				"inline",
+				"grunt-tasks/inline.js"
+			],
+			[
+				"all_",
+				"static/blog/css/all_blog.critical.css"
+			],
+			[
+				"critic",
+				"grunt-tasks/criticalcss.js"
+			],
+			[
+				"index",
+				"templates/index.src.html"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"amp.cata",
+				"catalog/static/css-catalog-samples/amp/amp.catalog.html"
+			],
+			[
+				"require",
+				"requirements.txt"
+			],
+			[
+				"seo.",
+				"js/src/components/seo/models/seo.model.js"
+			],
+			[
+				"criti",
+				"grunt-tasks/criticalcss.js"
+			],
+			[
+				"util",
+				"js/src/utils.js"
+			],
+			[
+				"run",
+				"js/src/run.js"
+			],
+			[
+				"markdo",
+				"js/src/components/markdown-to-html/directives/markdown-to-html.directive.js"
+			],
+			[
+				"utilities",
+				"sass/helpers/_utilities.sass"
+			],
+			[
+				"roomdescript",
+				"js/src/view/room-description/room-description-new.html"
+			],
+			[
+				"copy",
+				"grunt-tasks/copy.js"
+			],
+			[
+				"dev.sh",
+				"dev.sh"
+			],
+			[
+				"searchresul",
+				"js/src/components/search/templates/search-results.template.html"
+			],
+			[
+				"room-de",
+				"js/src/view/room-description/room-description-new.html"
+			],
+			[
+				"roomdes",
+				"js/src/view/room-description/models/room-description-new.model.js"
+			],
+			[
+				"search-result",
+				"js/src/components/search/templates/search-results.template.html"
+			],
+			[
+				"roomdesmoden",
+				"js/src/view/room-description/models/room-description-new.model.js"
+			],
+			[
+				"search-results.mode",
+				"js/src/components/search/models/search-results.model.js"
+			],
+			[
+				"injec",
+				"grunt-tasks/.inject.json"
+			],
+			[
+				"roomdescriptionnew",
+				"js/src/view/room-description/room-description-new.html"
+			],
+			[
+				"searchresulte",
+				"js/src/components/search/templates/search-results.template.html"
+			],
+			[
+				"roomdescripnew",
+				"js/src/view/room-description/room-description-new.html"
+			],
+			[
+				"searchresultem",
+				"js/src/components/search/templates/search-results.template.html"
+			],
+			[
+				"copy.",
+				"grunt-tasks/copy.js"
+			],
+			[
+				"bindmar",
+				"js/src/components/bind-markdown-to-html/templates/bind-markdown-to-html.template.html"
+			],
+			[
+				"roomdescriptionnewdirectivecontroller",
+				"js/src/view/room-description/controllers/room-description-new-directive.controller.js"
+			],
+			[
+				"util.js",
+				"js/src/utils.js"
+			],
+			[
+				"bindtomardi",
+				"js/src/components/bind-markdown-to-html/directives/bind-markdown-to-html.directive.js"
+			],
+			[
+				"bindtomar",
+				"js/src/components/bind-markdown-to-html/templates/bind-markdown-to-html.template.html"
+			],
+			[
+				"app.j",
+				"js/src/app.js"
+			],
+			[
+				"cozinha.j",
+				"js/src/view/room-description/mock/cozinha.html.md.json"
+			],
+			[
+				"searchresulmo",
+				"js/src/components/search/models/search-results.model.js"
+			],
+			[
+				"decoracao.j",
+				"js/src/view/room-description/mock/decoracao.html.md.json"
+			],
+			[
+				"marked-to-h",
+				"js/src/components/marked-to-html/templates/marked-to-html.template.html"
+			],
+			[
+				"marked.html",
+				"js/src/components/marked-to-html/catalog/marked-to-html.html"
+			],
+			[
+				"decoracaojs",
+				"js/src/view/room-description/mock/decoracao.html.md.json"
+			],
+			[
+				"catalog",
+				"catalog/templates/catalog.html"
+			],
+			[
+				"searchrou",
+				"js/src/components/search/search.routes.js"
+			],
+			[
+				"cozinhajson",
+				"js/src/view/room-description/mock/cozinha.html.md.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/dev/vivadecora.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1272.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
